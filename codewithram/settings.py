@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get("https://api.render.com/deploy/srv-daeodsnqj5pc73a9u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1","localhost"]
+ALLOWED_HOSTS = ["https://codewithram.onrender.com"]
 
 
 # Application definition
